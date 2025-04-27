@@ -1,0 +1,140 @@
+{
+  "HERO": {
+    "TITLE": "John Doe",
+    "GREETING": "Bonjour, je suis",
+    "PROFESSION": "Développeur Full Stack",
+    "DESCRIPTION": "Je crée des applications web belles et fonctionnelles avec des technologies modernes.",
+    "CTA_RESUME": "Télécharger le CV",
+    "CTA_CONTACT": "Me Contacter"
+  },
+  "ABOUT": {
+    "TITLE": "À propos de moi",
+    "DESCRIPTION": "Je suis un développeur passionné avec 5 ans d'expérience dans la création d'applications web. J'adore transformer des problèmes complexes en solutions simples, belles et intuitives.",
+    "INTERESTS": {
+      "TITLE": "Centres d'intérêt",
+      "DESCRIPTION": "Quand je ne code pas, j'aime faire de la randonnée, de la photographie et lire des romans de science-fiction."
+    },
+    "QUICK_INFO": {
+      "TITLE": "Infos Rapides",
+      "EXPERIENCE": {
+        "TITLE": "Expérience",
+        "VALUE": "5+ Ans"
+      },
+      "LOCATION": {
+        "TITLE": "Localisation",
+        "VALUE": "San Francisco, CA"
+      },
+      "LANGUAGES": {
+        "TITLE": "Langues",
+        "VALUES": [
+          "Anglais",
+          "Espagnol",
+          "Français"
+        ]
+      }
+    }
+  },
+  "SKILLS": {
+    "TITLE": "Mes Compétences",
+    "FRONTEND": "Frontend",
+    "BACKEND": "Backend",
+    "TOOLS": "Outils & Technologies",
+    "ITEMS": {
+      "HTML_CSS": "HTML/CSS",
+      "JAVASCRIPT": "JavaScript",
+      "REACT": "React",
+      "TYPESCRIPT": "TypeScript",
+      "TAILWIND": "Tailwind CSS",
+      "NODEJS": "Node.js",
+      "PYTHON": "Python",
+      "EXPRESS": "Express",
+      "MONGODB": "MongoDB",
+      "POSTGRESQL": "PostgreSQL",
+      "GIT": "Git",
+      "DOCKER": "Docker",
+      "AWS": "AWS",
+      "CI_CD": "CI/CD",
+      "JEST": "Jest",
+      "REDUX": "Redux",
+      "GRAPHQL": "GraphQL"
+    }
+  },
+  "PROJECTS": {
+    "TITLE": "Projets Vedettes",
+    "VIEW_ALL": "Voir Tous les Projets",
+    "LIVE_DEMO": "Démo en Direct",
+    "SOURCE_CODE": "Code Source",
+    "ITEMS": {
+      "PROJECT_ONE_TITLE": "Plateforme E-Commerce",
+      "PROJECT_ONE_DESCRIPTION": "Une plateforme e-commerce complète construite avec React et Node.js",
+      "PROJECT_TWO_TITLE": "Site Web de Portfolio",
+      "PROJECT_TWO_DESCRIPTION": "Un site web de portfolio moderne construit avec React et Tailwind CSS"
+    }
+  },
+  "EXPERIENCE": {
+    "TITLE": "Expérience Professionnelle",
+    "ITEMS": {
+      "EXPERIENCE_ONE_COMPANY_NAME": "Tech Solutions Inc.",
+      "EXPERIENCE_ONE_POSITION": "Développeur Frontend Senior",
+      "EXPERIENCE_ONE_PERIOD": "2021 - Présent",
+      "EXPERIENCE_ONE_DESCRIPTION": "Dirigé le développement frontend pour des applications d'entreprise, gestion d'une équipe de 5 développeurs.",
+      "EXPERIENCE_TWO_COMPANY_NAME": "Innovations Digitales",
+      "EXPERIENCE_TWO_POSITION": "Développeur Full Stack",
+      "EXPERIENCE_TWO_PERIOD": "2018 - 2021",
+      "EXPERIENCE_TWO_DESCRIPTION": "Développement et maintenance d'applications web full stack pour divers clients."
+    }
+  },
+  "EDUCATION": {
+    "TITLE": "Éducation",
+    "DEGREE": "Diplôme",
+    "GPA": "Moyenne",
+    "ITEMS": {
+      "EDUCATION_ITEM_ONE_DEGREE": "Master en Informatique",
+      "EDUCATION_ITEM_ONE_INSTITUTION": "Université Tech",
+      "EDUCATION_ITEM_ONE_PERIOD": "2014 - 2016",
+      "EDUCATION_ITEM_ONE_DESCRIPTION": "Spécialisé en ingénierie logicielle avec un accent sur les technologies web.",
+      "EDUCATION_ITEM_ONE_GPA": "3.9/4.0",
+      "EDUCATION_ITEM_TWO_DEGREE": "Licence en Informatique",
+      "EDUCATION_ITEM_TWO_INSTITUTION": "Université d'État",
+      "EDUCATION_ITEM_TWO_PERIOD": "2010 - 2014",
+      "EDUCATION_ITEM_TWO_DESCRIPTION": "Études principales en programmation, algorithmes et conception de systèmes.",
+      "EDUCATION_ITEM_TWO_GPA": "3.8/4.0"
+    }
+  },
+  "TESTIMONIALS": {
+    "TITLE": "Témoignages de Clients",
+    "ITEMS": {
+      "TESTIMONIAL_ITEM_ONE_NAME": "Sarah Johnson",
+      "TESTIMONIAL_ITEM_ONE_POSITION": "CEO, Agence de Marketing Digital",
+      "TESTIMONIAL_ITEM_ONE_TEXT": "John a livré une plateforme e-commerce exceptionnelle qui a dépassé nos attentes.",
+      "TESTIMONIAL_ITEM_TWO_NAME": "Michael Chen",
+      "TESTIMONIAL_ITEM_TWO_POSITION": "Chef de Produit, Startup Tech",
+      "TESTIMONIAL_ITEM_TWO_TEXT": "Travailler avec John a été un vrai plaisir. Il a parfaitement compris nos besoins."
+    }
+  },
+  "CONTACT": {
+    "TITLE": "Entrer en Contact",
+    "NAME": "Votre Nom",
+    "MESSAGE": "Votre Message",
+    "SEND": "Envoyer le Message",
+    "SENDING": "Envoi...",
+    "SUCCESS": "Message envoyé avec succès !",
+    "ERROR": "Quelque chose a mal tourné. Veuillez réessayer.",
+    "FOLLOW_ME": "Suivez-moi sur",
+    "LOCATION": "Localisation",
+    "EMAIL_LABEL": "Email",
+    "PHONE_LABEL": "Téléphone",
+    "ADDRESS": "San Francisco, CA"
+  },
+  "NAV": {
+    "HOME": "Accueil",
+    "ABOUT": "À propos",
+    "SKILLS": "Compétences",
+    "PROJECTS": "Projets",
+    "EXPERIENCE": "Expérience",
+    "EDUCATION": "Éducation",
+    "TESTIMONIALS": "Témoignages",
+    "CONTACT": "Contact",
+    "LOGO_TEXT": "John"
+  }
+}

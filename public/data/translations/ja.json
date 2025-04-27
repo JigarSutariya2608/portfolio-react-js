@@ -1,0 +1,140 @@
+{
+    "HERO": {
+        "TITLE": "John Doe",
+        "GREETING": "こんにちは、私は",
+        "PROFESSION": "フルスタック開発者",
+        "DESCRIPTION": "最新技術を使って、美しく機能的なWebアプリケーションを作成します。",
+        "CTA_RESUME": "履歴書をダウンロード",
+        "CTA_CONTACT": "お問い合わせ"
+    },
+    "ABOUT": {
+        "TITLE": "自己紹介",
+        "DESCRIPTION": "5年の経験を持つ情熱的な開発者です。複雑な問題をシンプルで直感的なソリューションに変えることが好きです。",
+        "INTERESTS": {
+            "TITLE": "趣味",
+            "DESCRIPTION": "コーディングしていないときは、ハイキング、写真撮影、そしてSF小説を読むのが好きです。"
+        },
+        "QUICK_INFO": {
+            "TITLE": "基本情報",
+            "EXPERIENCE": {
+                "TITLE": "経験",
+                "VALUE": "5年以上"
+            },
+            "LOCATION": {
+                "TITLE": "所在地",
+                "VALUE": "サンフランシスコ, CA"
+            },
+            "LANGUAGES": {
+                "TITLE": "使用言語",
+                "VALUES": [
+                    "英語",
+                    "スペイン語",
+                    "フランス語"
+                ]
+            }
+        }
+    },
+    "SKILLS": {
+        "TITLE": "スキル",
+        "FRONTEND": "フロントエンド",
+        "BACKEND": "バックエンド",
+        "TOOLS": "ツールと技術",
+        "ITEMS": {
+            "HTML_CSS": "HTML/CSS",
+            "JAVASCRIPT": "JavaScript",
+            "REACT": "React",
+            "TYPESCRIPT": "TypeScript",
+            "TAILWIND": "Tailwind CSS",
+            "NODEJS": "Node.js",
+            "PYTHON": "Python",
+            "EXPRESS": "Express",
+            "MONGODB": "MongoDB",
+            "POSTGRESQL": "PostgreSQL",
+            "GIT": "Git",
+            "DOCKER": "Docker",
+            "AWS": "AWS",
+            "CI_CD": "CI/CD",
+            "JEST": "Jest",
+            "REDUX": "Redux",
+            "GRAPHQL": "GraphQL"
+        }
+    },
+    "PROJECTS": {
+        "TITLE": "注目プロジェクト",
+        "VIEW_ALL": "すべてのプロジェクトを見る",
+        "LIVE_DEMO": "ライブデモ",
+        "SOURCE_CODE": "ソースコード",
+        "ITEMS": {
+            "PROJECT_ONE_TITLE": "Eコマースプラットフォーム",
+            "PROJECT_ONE_DESCRIPTION": "ReactとNode.jsで構築されたフル機能のEコマースプラットフォーム",
+            "PROJECT_TWO_TITLE": "ポートフォリオサイト",
+            "PROJECT_TWO_DESCRIPTION": "ReactとTailwind CSSで作成されたモダンなポートフォリオサイト"
+        }
+    },
+    "EXPERIENCE": {
+        "TITLE": "職務経歴",
+        "ITEMS": {
+            "EXPERIENCE_ONE_COMPANY_NAME": "Tech Solutions Inc.",
+            "EXPERIENCE_ONE_POSITION": "シニアフロントエンド開発者",
+            "EXPERIENCE_ONE_PERIOD": "2021年〜現在",
+            "EXPERIENCE_ONE_DESCRIPTION": "企業向けアプリケーションのフロントエンド開発をリードし、5人の開発チームを管理。",
+            "EXPERIENCE_TWO_COMPANY_NAME": "Digital Innovations",
+            "EXPERIENCE_TWO_POSITION": "フルスタック開発者",
+            "EXPERIENCE_TWO_PERIOD": "2018年〜2021年",
+            "EXPERIENCE_TWO_DESCRIPTION": "様々なクライアント向けにフルスタックWebアプリケーションを開発・保守。"
+        }
+    },
+    "EDUCATION": {
+        "TITLE": "学歴",
+        "DEGREE": "学位",
+        "GPA": "GPA",
+        "ITEMS": {
+            "EDUCATION_ITEM_ONE_DEGREE": "コンピュータサイエンス修士",
+            "EDUCATION_ITEM_ONE_INSTITUTION": "テック大学",
+            "EDUCATION_ITEM_ONE_PERIOD": "2014年〜2016年",
+            "EDUCATION_ITEM_ONE_DESCRIPTION": "ソフトウェアエンジニアリングを専攻し、Web技術に焦点を当てました。",
+            "EDUCATION_ITEM_ONE_GPA": "3.9/4.0",
+            "EDUCATION_ITEM_TWO_DEGREE": "IT学士",
+            "EDUCATION_ITEM_TWO_INSTITUTION": "州立大学",
+            "EDUCATION_ITEM_TWO_PERIOD": "2010年〜2014年",
+            "EDUCATION_ITEM_TWO_DESCRIPTION": "プログラミング、アルゴリズム、システム設計を中心に学びました。",
+            "EDUCATION_ITEM_TWO_GPA": "3.8/4.0"
+        }
+    },
+    "TESTIMONIALS": {
+        "TITLE": "お客様の声",
+        "ITEMS": {
+            "TESTIMONIAL_ITEM_ONE_NAME": "Sarah Johnson",
+            "TESTIMONIAL_ITEM_ONE_POSITION": "CEO、デジタルマーケティングエージェンシー",
+            "TESTIMONIAL_ITEM_ONE_TEXT": "Johnは、私たちの期待を超える素晴らしいEコマースプラットフォームを提供してくれました。",
+            "TESTIMONIAL_ITEM_TWO_NAME": "Michael Chen",
+            "TESTIMONIAL_ITEM_TWO_POSITION": "プロダクトマネージャー、テックスタートアップ",
+            "TESTIMONIAL_ITEM_TWO_TEXT": "Johnとの仕事は非常にスムーズでした。要件を完璧に理解してくれました。"
+        }
+    },
+    "CONTACT": {
+        "TITLE": "お問い合わせ",
+        "NAME": "お名前",
+        "MESSAGE": "メッセージ",
+        "SEND": "メッセージ送信",
+        "SENDING": "送信中...",
+        "SUCCESS": "メッセージが正常に送信されました！",
+        "ERROR": "エラーが発生しました。再試行してください。",
+        "FOLLOW_ME": "フォローする",
+        "LOCATION": "所在地",
+        "EMAIL_LABEL": "メール",
+        "PHONE_LABEL": "電話",
+        "ADDRESS": "サンフランシスコ, CA"
+    },
+    "NAV": {
+        "HOME": "ホーム",
+        "ABOUT": "自己紹介",
+        "SKILLS": "スキル",
+        "PROJECTS": "プロジェクト",
+        "EXPERIENCE": "経験",
+        "EDUCATION": "学歴",
+        "TESTIMONIALS": "お客様の声",
+        "CONTACT": "お問い合わせ",
+        "LOGO_TEXT": "John"
+    }
+}

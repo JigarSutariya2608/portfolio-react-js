@@ -1,0 +1,140 @@
+{
+    "HERO": {
+        "TITLE": "John Doe",
+        "GREETING": "Hallo, ich bin",
+        "PROFESSION": "Full Stack Entwickler",
+        "DESCRIPTION": "Ich erstelle schöne und funktionale Webanwendungen mit modernen Technologien.",
+        "CTA_RESUME": "Lebenslauf herunterladen",
+        "CTA_CONTACT": "Kontaktiere mich"
+    },
+    "ABOUT": {
+        "TITLE": "Über mich",
+        "DESCRIPTION": "Ich bin ein leidenschaftlicher Entwickler mit 5 Jahren Erfahrung im Bau von Webanwendungen. Ich liebe es, komplexe Probleme in einfache, schöne und intuitive Lösungen zu verwandeln.",
+        "INTERESTS": {
+            "TITLE": "Interessen",
+            "DESCRIPTION": "Wenn ich nicht programmiere, gehe ich gerne wandern, fotografieren und lese Science-Fiction-Romane."
+        },
+        "QUICK_INFO": {
+            "TITLE": "Schnelle Infos",
+            "EXPERIENCE": {
+                "TITLE": "Erfahrung",
+                "VALUE": "5+ Jahre"
+            },
+            "LOCATION": {
+                "TITLE": "Standort",
+                "VALUE": "San Francisco, CA"
+            },
+            "LANGUAGES": {
+                "TITLE": "Sprachen",
+                "VALUES": [
+                    "Englisch",
+                    "Spanisch",
+                    "Französisch"
+                ]
+            }
+        }
+    },
+    "SKILLS": {
+        "TITLE": "Meine Fähigkeiten",
+        "FRONTEND": "Frontend",
+        "BACKEND": "Backend",
+        "TOOLS": "Werkzeuge & Technologien",
+        "ITEMS": {
+            "HTML_CSS": "HTML/CSS",
+            "JAVASCRIPT": "JavaScript",
+            "REACT": "React",
+            "TYPESCRIPT": "TypeScript",
+            "TAILWIND": "Tailwind CSS",
+            "NODEJS": "Node.js",
+            "PYTHON": "Python",
+            "EXPRESS": "Express",
+            "MONGODB": "MongoDB",
+            "POSTGRESQL": "PostgreSQL",
+            "GIT": "Git",
+            "DOCKER": "Docker",
+            "AWS": "AWS",
+            "CI_CD": "CI/CD",
+            "JEST": "Jest",
+            "REDUX": "Redux",
+            "GRAPHQL": "GraphQL"
+        }
+    },
+    "PROJECTS": {
+        "TITLE": "Ausgewählte Projekte",
+        "VIEW_ALL": "Alle Projekte ansehen",
+        "LIVE_DEMO": "Live-Demo",
+        "SOURCE_CODE": "Quellcode",
+        "ITEMS": {
+            "PROJECT_ONE_TITLE": "E-Commerce Plattform",
+            "PROJECT_ONE_DESCRIPTION": "Eine vollständige E-Commerce-Plattform entwickelt mit React und Node.js",
+            "PROJECT_TWO_TITLE": "Portfolio-Website",
+            "PROJECT_TWO_DESCRIPTION": "Eine moderne Portfolio-Website erstellt mit React und Tailwind CSS"
+        }
+    },
+    "EXPERIENCE": {
+        "TITLE": "Berufserfahrung",
+        "ITEMS": {
+            "EXPERIENCE_ONE_COMPANY_NAME": "Tech Solutions Inc.",
+            "EXPERIENCE_ONE_POSITION": "Senior Frontend Entwickler",
+            "EXPERIENCE_ONE_PERIOD": "2021 - Heute",
+            "EXPERIENCE_ONE_DESCRIPTION": "Leitung der Frontend-Entwicklung von Unternehmensanwendungen, Management eines Teams von 5 Entwicklern.",
+            "EXPERIENCE_TWO_COMPANY_NAME": "Digitale Innovationen",
+            "EXPERIENCE_TWO_POSITION": "Full Stack Entwickler",
+            "EXPERIENCE_TWO_PERIOD": "2018 - 2021",
+            "EXPERIENCE_TWO_DESCRIPTION": "Entwicklung und Wartung von Full-Stack-Webanwendungen für verschiedene Kunden."
+        }
+    },
+    "EDUCATION": {
+        "TITLE": "Ausbildung",
+        "DEGREE": "Abschluss",
+        "GPA": "Notendurchschnitt",
+        "ITEMS": {
+            "EDUCATION_ITEM_ONE_DEGREE": "Master der Informatik",
+            "EDUCATION_ITEM_ONE_INSTITUTION": "Tech Universität",
+            "EDUCATION_ITEM_ONE_PERIOD": "2014 - 2016",
+            "EDUCATION_ITEM_ONE_DESCRIPTION": "Spezialisierung auf Software-Engineering mit Fokus auf Webtechnologien.",
+            "EDUCATION_ITEM_ONE_GPA": "3.9/4.0",
+            "EDUCATION_ITEM_TWO_DEGREE": "Bachelor of Science in IT",
+            "EDUCATION_ITEM_TWO_INSTITUTION": "Staatliche Universität",
+            "EDUCATION_ITEM_TWO_PERIOD": "2010 - 2014",
+            "EDUCATION_ITEM_TWO_DESCRIPTION": "Kernstudien in Programmierung, Algorithmen und Systemdesign.",
+            "EDUCATION_ITEM_TWO_GPA": "3.8/4.0"
+        }
+    },
+    "TESTIMONIALS": {
+        "TITLE": "Kundenbewertungen",
+        "ITEMS": {
+            "TESTIMONIAL_ITEM_ONE_NAME": "Sarah Johnson",
+            "TESTIMONIAL_ITEM_ONE_POSITION": "CEO, Digitale Marketingagentur",
+            "TESTIMONIAL_ITEM_ONE_TEXT": "John lieferte eine außergewöhnliche E-Commerce-Plattform, die unsere Erwartungen übertraf.",
+            "TESTIMONIAL_ITEM_TWO_NAME": "Michael Chen",
+            "TESTIMONIAL_ITEM_TWO_POSITION": "Produktmanager, Tech-Startup",
+            "TESTIMONIAL_ITEM_TWO_TEXT": "Die Zusammenarbeit mit John war sehr angenehm. Er verstand unsere Anforderungen perfekt."
+        }
+    },
+    "CONTACT": {
+        "TITLE": "Kontakt aufnehmen",
+        "NAME": "Ihr Name",
+        "MESSAGE": "Ihre Nachricht",
+        "SEND": "Nachricht senden",
+        "SENDING": "Wird gesendet...",
+        "SUCCESS": "Nachricht erfolgreich gesendet!",
+        "ERROR": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+        "FOLLOW_ME": "Folge mir auf",
+        "LOCATION": "Standort",
+        "EMAIL_LABEL": "E-Mail",
+        "PHONE_LABEL": "Telefon",
+        "ADDRESS": "San Francisco, CA"
+    },
+    "NAV": {
+        "HOME": "Startseite",
+        "ABOUT": "Über",
+        "SKILLS": "Fähigkeiten",
+        "PROJECTS": "Projekte",
+        "EXPERIENCE": "Erfahrung",
+        "EDUCATION": "Ausbildung",
+        "TESTIMONIALS": "Kundenbewertungen",
+        "CONTACT": "Kontakt",
+        "LOGO_TEXT": "John"
+    }
+}

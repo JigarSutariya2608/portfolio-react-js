@@ -1,0 +1,207 @@
+
+{
+  "hero": {
+    "logoText": "HERO.LOGO_TEXT",
+    "greeting": "HERO.GREETING",
+    "title": "HERO.TITLE",
+    "profession": "HERO.PROFESSION",
+    "description": "HERO.DESCRIPTION",
+    "resumeUrl": "/data/resume.pdf",
+    "buttons": {
+      "resume": "HERO.CTA_RESUME",
+      "contact": "HERO.CTA_CONTACT"
+    }
+  },
+  "about": {
+    "title": "ABOUT.TITLE",
+    "description": "ABOUT.DESCRIPTION",
+    "skills": ["SKILLS.ITEMS.REACT", "SKILLS.ITEMS.TYPESCRIPT", "SKILLS.ITEMS.NODEJS", "SKILLS.ITEMS.PYTHON", "SKILLS.ITEMS.AWS", "SKILLS.ITEMS.DOCKER"],
+    "interests": {
+      "title": "ABOUT.INTERESTS.TITLE",
+      "description": "ABOUT.INTERESTS.DESCRIPTION"
+    },
+    "quickInfo": {
+      "title": "ABOUT.QUICK_INFO.TITLE",
+      "experience": {
+        "title": "ABOUT.QUICK_INFO.EXPERIENCE.TITLE",
+        "value": "ABOUT.QUICK_INFO.EXPERIENCE.VALUE"
+      },
+      "location": {
+        "title": "ABOUT.QUICK_INFO.LOCATION.TITLE",
+        "value": "ABOUT.QUICK_INFO.LOCATION.VALUE"
+      },
+      "languages": {
+        "title": "ABOUT.QUICK_INFO.LANGUAGES.TITLE",
+        "values": ["English", "Spanish", "French"]
+      }
+    }
+  },
+  "skills": {
+    "title": "SKILLS.TITLE",
+    "categories": {
+      "frontend": "SKILLS.FRONTEND",
+      "backend": "SKILLS.BACKEND",
+      "tools": "SKILLS.TOOLS"
+    },
+    "frontend": [
+      { "name": "SKILLS.ITEMS.HTML_CSS", "level": 95 },
+      { "name": "SKILLS.ITEMS.JAVASCRIPT", "level": 90 },
+      { "name": "SKILLS.ITEMS.REACT", "level": 92 },
+      { "name": "SKILLS.ITEMS.TYPESCRIPT", "level": 85 },
+      { "name": "SKILLS.ITEMS.TAILWIND", "level": 88 }
+    ],
+    "backend": [
+      { "name": "SKILLS.ITEMS.NODEJS", "level": 88 },
+      { "name": "SKILLS.ITEMS.PYTHON", "level": 80 },
+      { "name": "SKILLS.ITEMS.EXPRESS", "level": 85 },
+      { "name": "SKILLS.ITEMS.MONGODB", "level": 82 },
+      { "name": "SKILLS.ITEMS.POSTGRESQL", "level": 78 }
+    ],
+    "tools": [
+      { "name": "SKILLS.ITEMS.GIT", "level": 90 },
+      { "name": "SKILLS.ITEMS.DOCKER", "level": 75 },
+      { "name": "SKILLS.ITEMS.AWS", "level": 70 },
+      { "name": "SKILLS.ITEMS.CI_CD", "level": 78 },
+      { "name": "SKILLS.ITEMS.JEST", "level": 82 }
+    ]
+  },
+  "projects": {
+    "title": "PROJECTS.TITLE",
+    "viewAll": "PROJECTS.VIEW_ALL",
+    "liveDemo": "PROJECTS.LIVE_DEMO",
+    "sourceCode": "PROJECTS.SOURCE_CODE",
+    "items": [
+      {
+        "id": 1,
+        "title": "PROJECTS.ITEMS.PROJECT_ONE_TITLE",
+        "description": "PROJECTS.ITEMS.PROJECT_ONE_DESCRIPTION",
+        "image": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7",
+        "tags": ["SKILLS.ITEMS.REACT", "SKILLS.ITEMS.NODEJS", "SKILLS.ITEMS.MONGODB"],
+        "github": "https://github.com/johndoe/ecommerce",
+        "demo": "https://ecommerce-demo.example.com"
+      },
+      {
+        "id": 2,
+        "title": "PROJECTS.ITEMS.PROJECT_TWO_TITLE",
+        "description": "PROJECTS.ITEMS.PROJECT_TWO_DESCRIPTION",
+        "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+        "tags": ["SKILLS.ITEMS.REACT", "SKILLS.ITEMS.TYPESCRIPT", "SKILLS.ITEMS.TAILWIND"],
+        "github": "https://github.com/johndoe/portfolio",
+        "demo": "https://johndoe-portfolio.example.com"
+      }
+    ]
+  },
+  "experience": {
+    "title": "EXPERIENCE.TITLE",
+    "items": [
+      {
+        "company": "EXPERIENCE.ITEMS.EXPERIENCE_ONE_COMPANY_NAME",
+        "position": "EXPERIENCE.ITEMS.EXPERIENCE_ONE_POSITION",
+        "period": "EXPERIENCE.ITEMS.EXPERIENCE_ONE_PERIOD",
+        "description": "EXPERIENCE.ITEMS.EXPERIENCE_ONE_DESCRIPTION",
+        "technologies": ["SKILLS.ITEMS.REACT", "SKILLS.ITEMS.TYPESCRIPT", "SKILLS.ITEMS.REDUX", "SKILLS.ITEMS.GRAPHQL"]
+      },
+      {
+        "company": "EXPERIENCE.ITEMS.EXPERIENCE_TWO_COMPANY_NAME",
+        "position": "EXPERIENCE.ITEMS.EXPERIENCE_TWO_POSITION",
+        "period": "EXPERIENCE.ITEMS.EXPERIENCE_TWO_PERIOD",
+        "description": "EXPERIENCE.ITEMS.EXPERIENCE_TWO_DESCRIPTION",
+        "technologies": ["SKILLS.ITEMS.JAVASCRIPT", "SKILLS.ITEMS.NODEJS", "SKILLS.ITEMS.MONGODB", "SKILLS.ITEMS.EXPRESS"]
+      }
+    ]
+  },
+  "education": {
+    "title": "EDUCATION.TITLE",
+    "degree": "EDUCATION.DEGREE",
+    "gpa": "EDUCATION.GPA",
+    "items": [
+      {
+        "degree": "EDUCATION.ITEMS.EDUCATION_ITEM_ONE_DEGREE",
+        "institution": "EDUCATION.ITEMS.EDUCATION_ITEM_ONE_INSTITUTION",
+        "period": "EDUCATION.ITEMS.EDUCATION_ITEM_ONE_PERIOD",
+        "description": "EDUCATION.ITEMS.EDUCATION_ITEM_ONE_DESCRIPTION",
+        "gpa": "3.9/4.0"
+      },
+      {
+        "degree": "EDUCATION.ITEMS.EDUCATION_ITEM_TWO_DEGREE",
+        "institution": "EDUCATION.ITEMS.EDUCATION_ITEM_TWO_INSTITUTION",
+        "period": "EDUCATION.ITEMS.EDUCATION_ITEM_TWO_PERIOD",
+        "description": "EDUCATION.ITEMS.EDUCATION_ITEM_TWO_DESCRIPTION",
+        "gpa": "3.8/4.0"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "TESTIMONIALS.TITLE",
+    "items": [
+      {
+        "name": "TESTIMONIALS.ITEMS.TESTIMONIAL_ITEM_ONE_NAME",
+        "position": "TESTIMONIALS.ITEMS.TESTIMONIAL_ITEM_ONE_POSITION",
+        "image": "https://randomuser.me/api/portraits/women/68.jpg",
+        "text": "TESTIMONIALS.ITEMS.TESTIMONIAL_ITEM_ONE_TEXT",
+        "rating": 5
+      },
+      {
+        "name": "TESTIMONIALS.ITEMS.TESTIMONIAL_ITEM_TWO_NAME",
+        "position": "TESTIMONIALS.ITEMS.TESTIMONIAL_ITEM_TWO_POSITION",
+        "image": "https://randomuser.me/api/portraits/men/22.jpg",
+        "text": "TESTIMONIALS.ITEMS.TESTIMONIAL_ITEM_TWO_TEXT",
+        "rating": 5
+      }
+    ]
+  },
+  "contact": {
+    "title": "CONTACT.TITLE",
+    "name": "CONTACT.NAME",
+    "email": "johndoe@example.com",
+    "message": "CONTACT.MESSAGE",
+    "send": "CONTACT.SEND",
+    "success": "CONTACT.SUCCESS",
+    "error": "CONTACT.ERROR",
+    "followMe": "CONTACT.FOLLOW_ME",
+    "location": "CONTACT.LOCATION",
+    "emailLabel": "CONTACT.EMAIL_LABEL",
+    "phoneLabel": "CONTACT.PHONE_LABEL",
+    "phone": "+1 (555) 123-4567",
+    "address": "CONTACT.ADDRESS",
+    "linkedin": "linkedin.com/in/johndoe",
+    "github": "github.com/johndoe"
+  },
+  "navigation": {
+    "homeLink": "NAV.HOME",
+    "aboutLink": "NAV.ABOUT",
+    "skillsLink": "NAV.SKILLS",
+    "projectsLink": "NAV.PROJECTS",
+    "experienceLink": "NAV.EXPERIENCE",
+    "educationLink": "NAV.EDUCATION",
+    "testimonialsLink": "NAV.TESTIMONIALS",
+    "contactLink": "NAV.CONTACT",
+    "brandName": "NAV.LOGO_TEXT"
+  },
+  "language_switcher": [
+    {
+      "code": "en",
+      "label": "English"
+    },
+    {
+      "code": "fr",
+      "label": "Français"
+    },
+    {
+      "code": "es",
+      "label": "Español"
+    },
+    {
+      "code": "de",
+      "label": "Deutsch"
+    },
+    {
+      "code": "it",
+      "label": "Italiano"
+    },
+    {
+      "code": "ja",
+      "label": "日本語"
+    }
+  ]
+}

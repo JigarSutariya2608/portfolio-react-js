@@ -1,0 +1,140 @@
+{
+  "HERO": {
+    "TITLE": "John Doe",
+    "GREETING": "Hello, I'm",
+    "PROFESSION": "Full Stack Developer",
+    "DESCRIPTION": "I create beautiful and functional web applications with modern technologies.",
+    "CTA_RESUME": "Download Resume",
+    "CTA_CONTACT": "Contact Me"
+  },
+  "ABOUT": {
+    "TITLE": "About Me",
+    "DESCRIPTION": "I'm a passionate developer with 5 years of experience in building web applications. I love turning complex problems into simple, beautiful and intuitive solutions.",
+    "INTERESTS": {
+      "TITLE": "Interests",
+      "DESCRIPTION": "When I'm not coding, I enjoy hiking, photography, and reading sci-fi novels."
+    },
+    "QUICK_INFO": {
+      "TITLE": "Quick Info",
+      "EXPERIENCE": {
+        "TITLE": "Experience",
+        "VALUE": "5+ Years"
+      },
+      "LOCATION": {
+        "TITLE": "Location",
+        "VALUE": "San Francisco, CA"
+      },
+      "LANGUAGES": {
+        "TITLE": "Languages",
+        "VALUES": [
+          "English",
+          "Spanish",
+          "French"
+        ]
+      }
+    }
+  },
+  "SKILLS": {
+    "TITLE": "My Skills",
+    "FRONTEND": "Frontend",
+    "BACKEND": "Backend",
+    "TOOLS": "Tools & Technologies",
+    "ITEMS": {
+      "HTML_CSS": "HTML/CSS",
+      "JAVASCRIPT": "JavaScript",
+      "REACT": "React",
+      "TYPESCRIPT": "TypeScript",
+      "TAILWIND": "Tailwind CSS",
+      "NODEJS": "Node.js",
+      "PYTHON": "Python",
+      "EXPRESS": "Express",
+      "MONGODB": "MongoDB",
+      "POSTGRESQL": "PostgreSQL",
+      "GIT": "Git",
+      "DOCKER": "Docker",
+      "AWS": "AWS",
+      "CI_CD": "CI/CD",
+      "JEST": "Jest",
+      "REDUX": "Redux",
+      "GRAPHQL": "GraphQL"
+    }
+  },
+  "PROJECTS": {
+    "TITLE": "Featured Projects",
+    "VIEW_ALL": "View All Projects",
+    "LIVE_DEMO": "Live Demo",
+    "SOURCE_CODE": "Source Code",
+    "ITEMS": {
+      "PROJECT_ONE_TITLE": "E-Commerce Platform",
+      "PROJECT_ONE_DESCRIPTION": "A full-featured e-commerce platform built with React and Node.js",
+      "PROJECT_TWO_TITLE": "Portfolio Website",
+      "PROJECT_TWO_DESCRIPTION": "A modern portfolio website built with React and Tailwind CSS"
+    }
+  },
+  "EXPERIENCE": {
+    "TITLE": "Work Experience",
+    "ITEMS": {
+      "EXPERIENCE_ONE_COMPANY_NAME": "Tech Solutions Inc.",
+      "EXPERIENCE_ONE_POSITION": "Senior Frontend Developer",
+      "EXPERIENCE_ONE_PERIOD": "2021 - Present",
+      "EXPERIENCE_ONE_DESCRIPTION": "Lead frontend development for enterprise applications, managing a team of 5 developers.",
+      "EXPERIENCE_TWO_COMPANY_NAME": "Digital Innovations",
+      "EXPERIENCE_TWO_POSITION": "Full Stack Developer",
+      "EXPERIENCE_TWO_PERIOD": "2018 - 2021",
+      "EXPERIENCE_TWO_DESCRIPTION": "Developed and maintained full-stack web applications for various clients."
+    }
+  },
+  "EDUCATION": {
+    "TITLE": "Education",
+    "DEGREE": "Degree",
+    "GPA": "GPA",
+    "ITEMS": {
+      "EDUCATION_ITEM_ONE_DEGREE": "Master of Computer Science",
+      "EDUCATION_ITEM_ONE_INSTITUTION": "Tech University",
+      "EDUCATION_ITEM_ONE_PERIOD": "2014 - 2016",
+      "EDUCATION_ITEM_ONE_DESCRIPTION": "Specialized in Software Engineering with focus on web technologies.",
+      "EDUCATION_ITEM_ONE_GPA": "3.9/4.0",
+      "EDUCATION_ITEM_TWO_DEGREE": "Bachelor of Science in IT",
+      "EDUCATION_ITEM_TWO_INSTITUTION": "State University",
+      "EDUCATION_ITEM_TWO_PERIOD": "2010 - 2014",
+      "EDUCATION_ITEM_TWO_DESCRIPTION": "Core studies in programming, algorithms, and system design.",
+      "EDUCATION_ITEM_TWO_GPA": "3.8/4.0"
+    }
+  },
+  "TESTIMONIALS": {
+    "TITLE": "Client Testimonials",
+    "ITEMS": {
+      "TESTIMONIAL_ITEM_ONE_NAME": "Sarah Johnson",
+      "TESTIMONIAL_ITEM_ONE_POSITION": "CEO, Digital Marketing Agency",
+      "TESTIMONIAL_ITEM_ONE_TEXT": "John delivered an exceptional e-commerce platform that exceeded our expectations.",
+      "TESTIMONIAL_ITEM_TWO_NAME": "Michael Chen",
+      "TESTIMONIAL_ITEM_TWO_POSITION": "Product Manager, Tech Startup",
+      "TESTIMONIAL_ITEM_TWO_TEXT": "Working with John was a breeze. They understood our requirements perfectly."
+    }
+  },
+  "CONTACT": {
+    "TITLE": "Get In Touch",
+    "NAME": "Your Name",
+    "MESSAGE": "Your Message",
+    "SEND": "Send Message",
+    "SENDING": "Sending...",
+    "SUCCESS": "Message sent successfully!",
+    "ERROR": "Something went wrong. Please try again.",
+    "FOLLOW_ME": "Follow me on",
+    "LOCATION": "Location",
+    "EMAIL_LABEL": "Email",
+    "PHONE_LABEL": "Phone",
+    "ADDRESS": "San Francisco, CA"
+  },
+  "NAV": {
+    "HOME": "Home",
+    "ABOUT": "About",
+    "SKILLS": "Skills",
+    "PROJECTS": "Projects",
+    "EXPERIENCE": "Experience",
+    "EDUCATION": "Education",
+    "TESTIMONIALS": "Testimonials",
+    "CONTACT": "Contact",
+    "LOGO_TEXT": "John"
+  }
+}
